@@ -13,7 +13,7 @@ The platform focuses on building reliable and maintainable data systems by imple
 
 # Architecture
 
-<img width="1495" height="971" alt="Data Pipeline Arhitecture" src="https://github.com/user-attachments/assets/9151d118-aaff-47f6-b559-fcf93bf226da" />
+<img width="1495" height="971" alt="Data Pipeline Arhitecture" src="https://github.com/user-attachments/assets/c31d688d-ee0d-4c68-b3e6-08fc02a21d01" />
 
 ## Airflow Orchestration
 
